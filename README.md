@@ -109,16 +109,16 @@ DELETE	/books/<id>	Delete a book by ID
 ## 🖼 CRUD Operation Screenshots
 
 ### 📖 GET all books
-![GET all books](images/get_books.png)
+![GET all books](images/get_books.png.jpg)
 
 ### 📝 POST a new book
-![POST book](images/post_book.png)
+![POST book](images/post_book.png.jpg)
 
 ### ✏ PUT update a book
-![PUT book](images/put_book.png)
+![PUT book](images/put_book.png.jpg)
 
 ### ❌ DELETE a book
-![DELETE book](images/delete_book.png)
+![DELETE book](images/delete_book.png.jpg)
 
 🧪 How to Test with Postman
 
