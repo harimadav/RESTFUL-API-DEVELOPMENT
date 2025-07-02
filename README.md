@@ -1,9 +1,14 @@
 # RESTFUL-API-DEVELOPMENT
 COMPANY: CODETECH IT SOLUTIONS
+
 NAME: S HARI SHANKAR
+
 DOAMIN: SOFTWARE DEVELOPMENT
+
 DURATION: 4 WEEKS
+
 MENTOR: NEELA SANTHOSH
+
 This is a simple RESTful API project developed for managing a library system.  
 It supports full CRUD operations using Python Flask and JSON data storage.
 
@@ -104,16 +109,16 @@ DELETE	/books/<id>	Delete a book by ID
 ## 🖼 CRUD Operation Screenshots
 
 ### 📖 GET all books
-![GET all books](get_books.png)
+![GET all books](images/get_books.png)
 
 ### 📝 POST a new book
-![POST book](post_book.png)
+![POST book](images/post_book.png)
 
 ### ✏ PUT update a book
-![PUT book](put_book.png)
+![PUT book](images/put_book.png)
 
 ### ❌ DELETE a book
-![DELETE book](delete_book.png)
+![DELETE book](images/delete_book.png)
 
 🧪 How to Test with Postman
 
