@@ -119,7 +119,7 @@ DELETE	/books/<id>	Delete a book by ID
 ![POST book](post_book.png.jpg)
 
 ### ✏ PUT update a book
-![PUT book](put_book.png.jpg)
+![PUT book](put_books.png.jpg)
 
 ### ❌ DELETE a book
 ![DELETE book](delete_book.png.jpg)
