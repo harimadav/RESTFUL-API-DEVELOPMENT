@@ -163,7 +163,17 @@ DELETE http://127.0.0.1:5000/books/1
 ✅ You’ll get confirmation messages in JSON responses.
 
 
-✅ Conclusion
+## 🔗 Developer Contact
+
+- 👨‍💻 *Name:* S HARI SHANKAR  
+- 📫 *Email:* hari.240123@cse.ritchennai.edu.in  
+- 📍 *Location:* Chennai, Tamil Nadu  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/s-hari-shankar-27279732b)  
+- 🖥 [GitHub](https://github.com/harimadav)  
+- 📷 [Instagram](https://www.instagram.com/shankar_s.hari)
+
+
+## 🔗 ✅ Conclusion
 
 This project demonstrates how to build a functional RESTful API using Flask.
 
